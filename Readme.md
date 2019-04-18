@@ -6,7 +6,7 @@ Terminal
 –	pwd                                          // this will show the current directory 
 –	cd  Desktop                                  // this will  open desktop directory 
 –	mkdir  testfolder                           // this will create a folder to the selected cd, test folder is the                                                                                  name
-–	ls                                             // this will show all the folders on the cd you are on  
+–	ls                                            // this will show all the folders on the cd you are on  
 –	cd testfolder                        // this will take you to the testfolder you created 
 –	cd ..                                       // this will take you back one folder back which will be desktop
 –	cd Desktop/testFolder       // this will take you directly to the testfolder from desktop inside of using cd twice 
